@@ -1,1 +1,3 @@
-See example at https://tivik.dev/5bukv/
+Generates webpage with daily word
+
+Use with cron
